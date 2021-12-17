@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trroev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning full stack WebDev via The Odin Project
 - 💞️ I’m looking to collaborate on learning code from the ground up!
 - 📫 How to reach me tmathiak@gmail.com
 
